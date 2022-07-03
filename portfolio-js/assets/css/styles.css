@@ -270,8 +270,12 @@ nav {
   }
   
   .socicon {
-    width: 2rem;
-    height: 2rem;
+    width: 3rem;
+    height: 3rem;
+  }
+ #linkedin{
+      width: 6rem;
+      height: 6rem;
   }
   footer {
     background-color: var(--bg-color);
