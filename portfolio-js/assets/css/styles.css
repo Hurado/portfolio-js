@@ -121,6 +121,10 @@ nav {
   .more-about {
     background-color: var(--bg-color);
     padding: 1rem 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
   }
   
   .more-about h2 {
@@ -131,6 +135,7 @@ nav {
   .more-about p {
     line-height: var(--line-height);
     padding: 0.4rem;
+    text-align: center;
   }
   .skills {
     max-width: 68.75rem;
