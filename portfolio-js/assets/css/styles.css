@@ -268,14 +268,16 @@ nav {
     right: 1%;
     bottom: 50%;
   }
-  
+  a+a img {
+    margin-left: 22px;
+  }
   .socicon {
     width: 3rem;
     height: 3rem;
   }
  #linkedin{
       width: 6rem;
-      height: 6rem;
+      height: auto;
   }
   footer {
     background-color: var(--bg-color);
